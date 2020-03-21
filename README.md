@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+Dataset has tweets and comments made on Narendra Modi and other Leaders as well as peoples opinion towards the next Prime Minister of The Nation ( In Context with General Elections Held In India - 2019).  All the tweets and comments were labeled either 0,1 or -1. 0 indicating neutral comment; 1 indicating positive comment; -1 indicating negative comment. Using this data, I trained various Machine Learning classification models to classify new text related to this topic.
